@@ -1,0 +1,22 @@
+{
+  "name": "bassnotequiz",
+  "version": "1.0.0",
+  "description": "A web app for bass beginners having fun!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisTse96/BassNoteQuiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LouisTse96/BassNoteQuiz/issues"
+  },
+  "homepage": "https://github.com/LouisTse96/BassNoteQuiz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
